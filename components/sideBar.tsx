@@ -71,7 +71,7 @@ const Sidebar = () => {
             className="rounded-full border-2 border-gray-300"
           />
           <h2 className="mt-3 text-2xl font-semibold">Anand Polamarasetti</h2>
-          <p className="text-base text-black dark:text-white font-extrabold opacity-80">
+          <p className="text-base text-black dark:text-white font-bold opacity-80">
             Sr Computer Systems Architect (AI/ML Specialist)
           </p>
         </div>

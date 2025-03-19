@@ -17,7 +17,7 @@ const About = () => {
         <h4 className="text-base font-thin uppercase mb-8 text-yellow tracking-[3px]">
           - Bio
         </h4>
-        <h1 className="text-4xl md:text-6xl font-bold leading-snug mt-2 font-larken tracking-[3px]">
+        <h1 className="text-4xl md:text-4xl font-bold leading-snug mt-2 font-larken tracking-[3px]">
           Anand Polamarasetti
         </h1>
         <p className="text-base font-semibold dark:text-white text-[#212529] mt-10 leading-8 font-larken border-l-4 border-yellow pl-6">
