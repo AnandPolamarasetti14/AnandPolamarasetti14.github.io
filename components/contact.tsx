@@ -22,7 +22,7 @@ export default function ContactForm() {
                 My Office
               </h2>
               <p className="dark:text-white text-[#212529]">
-                Ashburn,VA , 20148
+                Ashburn, VA, 20148
               </p>
               {/* <p className="dark:text-white text-[#212529]">Frisco, TX 75035</p>
               <p className="mt-4 dark:text-white text-[#212529]">
