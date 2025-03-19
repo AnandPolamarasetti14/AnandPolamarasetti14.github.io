@@ -200,7 +200,7 @@ export const awards = [
     publisher: "Taylor and Francis",
     link: "https://icecconf.org/icec_2024-2/",
     mediaLink:
-      "https://www.india.com/business/rahul-vadisetty-honored-for-outstanding-contribution-to-ai-and-cybersecurity-receives-best-paper-award-at-ieee-icec-2024-conference-2-7590579/",
+      " https://www.india.com/business/anand-polamarasetti-ai-ml-and-cybersecurity-visionary-wins-best-paper-award-at-ieee-icec-2024-conference-7590538/",
   },
   // {
   //   conferenceName: "OCIT 2024",
@@ -239,7 +239,7 @@ export const awards = [
     date: "2023",
     publisher: "Taylor and Francis",
     link: "https://www.iaiawards.com/",
-    mediaLink: "https://www.iaiawards.com/team-1/rahul-vadisetty/",
+    mediaLink: " https://www.iaiawards.com/team-1/anand-polamarasetti",
   },
 ];
 
