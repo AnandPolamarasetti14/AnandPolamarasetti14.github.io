@@ -1,6 +1,7 @@
 "use client";
 import MainTitle from "@/common/mainTitle";
 import { useActiveSectionContext } from "@/context/active-section-context";
+import Link from "next/link";
 import { BsEnvelopeOpen } from "react-icons/bs";
 
 export default function ContactForm() {
@@ -38,12 +39,13 @@ export default function ContactForm() {
               </h2>
               <ul className="mt-2">
                 <li className="flex justify-between items-center border-b dark:text-white text-[#212529]">
-                  <a
+                  <Link
                     href="https://www.linkedin.com/in/anand-polamarasetti-583639162/"
                     className="hover:underline mb-1 py-1"
+                    target="_blank"
                   >
                     LinkedIn
-                  </a>
+                  </Link>
                   <span>↗</span>
                 </li>
                 {/* <li className="flex justify-between items-center border-b dark:text-white text-[#212529]">

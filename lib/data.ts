@@ -344,29 +344,29 @@ export const books = [
 
 export const judgeData = [
   {
-    conferenceName: "Internet Technology Letters",
+    conferenceName: "SN Computer Science (Springer Journal)",
     topicName:
       "An Insight into Multi-Criteria Decision Methods for the Selection of Robot: A Comprehensive Review",
-    conferenceSortName: "Internet Technology Letters",
-    event: "Internet Technology Letters",
+    conferenceSortName: "SN Computer Science (Springer Journal)",
+    event: "SN Computer Science (Springer Journal)",
     date: "Oct 12, 2024",
     role: "Journal Peer Review | SN Computer Science (Springer Journal)",
   },
   {
-    conferenceName: "Internet Technology Letters",
+    conferenceName: "SN Computer Science (Springer Journal)",
     topicName:
       "Enhancing Multicriteria Recommender Systems with Adaptive Attention Mechanisms for Improved User Preference Discovery",
-    conferenceSortName: "Internet Technology Letters",
-    event: "Internet Technology Letters",
+    conferenceSortName: "SN Computer Science (Springer Journal)",
+    event: "SN Computer Science (Springer Journal)",
     date: "July 26, 2024",
     role: "Journal Peer Review | SN Computer Science (Springer Journal) ",
   },
   {
-    conferenceName: "Internet Technology Letters",
+    conferenceName: "SN Computer Science (Springer Journal)",
     topicName:
       "Innovative Machine Learning Algorithms for Early Detection of Health Anomalies in IoT Environments",
-    conferenceSortName: "Internet Technology Letters",
-    event: "Internet Technology Letters",
+    conferenceSortName: "SN Computer Science (Springer Journal)",
+    event: "SN Computer Science (Springer Journal)",
     date: "May 29, 2024",
     role: "Journal Peer Review | SN Computer Science (Springer Journal) ",
   },
@@ -418,7 +418,8 @@ export const judgeData = [
 
 export const judgeConference = [
   {
-    conferenceName: "3rd Doctoral Symposium on Human Centered Computing",
+    conferenceName:
+      "ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
     conferenceTopicName:
       "Jenkins-The Leading Automation Server for Continuous Integration and Continuous Delivery",
     conferenceSortName: "ICICCS- 2024",
@@ -427,7 +428,8 @@ export const judgeConference = [
     role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
   },
   {
-    conferenceName: "3rd Doctoral Symposium on Human Centered Computing",
+    conferenceName:
+      "ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
     conferenceTopicName: "Artificial Intelligence in the Healthcare Sector",
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
@@ -435,7 +437,8 @@ export const judgeConference = [
     role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
   },
   {
-    conferenceName: "3rd Doctoral Symposium on Human Centered Computing",
+    conferenceName:
+      "ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
     conferenceTopicName: "Simulation of Obstacle Avoidance Robots",
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
@@ -548,12 +551,12 @@ export const judgeConference = [
       "Generative Adversarial Networks: A Novel Approach to Generative Modeling",
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
-    date: "2024s",
+    date: "2024",
     role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
   },
   {
     conferenceName:
-      "International Conference on Advanced Data Analytics and Computing (ICADAC) 2025",
+      "ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
     conferenceTopicName:
       "Building Robust AI Systems in Finance: The Indispensable Role of Data Engineering and Data Quality",
     conferenceSortName: "ICICCS 2024",

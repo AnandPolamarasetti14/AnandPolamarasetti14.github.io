@@ -300,7 +300,10 @@ const Sidebar = () => {
 
         <div className="flex justify-center mt-12 mb-6">
           <div className="p-2 rounded-full dark:bg-[#343A40] hover:text-white bg-[#E9ECEF] hover:bg-[#0E76A8] dark:hover:bg-[#0E76A8] cursor-pointer">
-            <Link href="https://www.linkedin.com/in/anand-polamarasetti-583639162/ss" target="_blank">
+            <Link
+              href="https://www.linkedin.com/in/anand-polamarasetti-583639162/"
+              target="_blank"
+            >
               <FaLinkedin className="h-4 w-4" />
             </Link>
           </div>
