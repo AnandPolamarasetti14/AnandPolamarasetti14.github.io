@@ -14,7 +14,7 @@ const About = () => {
     >
       {/* Left Side: Text Content with Vertical Line */}
       <div className="md:w-1/2 md:text-left flex flex-col justify-center">
-        <h4 className="text-base font-thin uppercase mb-8 text-yellow tracking-[3px]">
+        <h4 className="text-base font-bold uppercase mb-8 text-yellow tracking-[3px]">
           - Bio
         </h4>
         <h1 className="text-4xl md:text-4xl font-bold leading-snug mt-2 font-larken tracking-[3px]">
