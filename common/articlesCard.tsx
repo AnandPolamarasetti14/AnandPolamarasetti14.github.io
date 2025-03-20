@@ -35,20 +35,29 @@ const ArticleCard = ({
         </p>
         <div className="flex gap-4 items-center">
           <span className="text-gray-400">Media :</span>
-          <a href={mediaLink} target="_blank" rel="noopener noreferrer">
-            <Image
-              src={image}
-              alt={conferenceName}
-              width={100}
-              height={100}
-              className="rounded-lg dark:bg-white bg-[#E9ECEF] mt-2"
-              style={{
-                objectFit: "contain",
-                width: "100px",
-                height: "50px",
-              }}
-            />
-          </a>
+          {image ? (
+            <Link href={mediaLink} target="_blank" rel="noopener noreferrer">
+              <Image
+                src={image}
+                alt={conferenceName}
+                width={100}
+                height={100}
+                className="rounded-lg dark:bg-white bg-[#E9ECEF] mt-2"
+                style={{
+                  objectFit: "contain",
+                  width: "100px",
+                  height: "50px",
+                }}
+              />
+            </Link>
+          ) : (
+            <Link
+              href={mediaLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-lg flex items-center justify-center font-bold bg-yellow w-24 h-9 mt-2 cursor-pointer"
+            ></Link>
+          )}
         </div>
       </div>
     </div>

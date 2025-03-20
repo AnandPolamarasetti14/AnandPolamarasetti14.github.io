@@ -54,7 +54,7 @@ export const articles = [
       " https://www.freepressjournal.in/latest-news/revolutionizing-cloud-data-sharing-rahul-vadisetty-and-anand-polamarasetti-wins-best-paper-award-at-ieee-ictbig-2024-conference",
   },
   {
-    image: "/hans_india.png",
+    image: "",
     conferenceName:
       "International Institute of Computer Science Professional Association (IICSPA)",
     shortName: "OCIT 2025",
@@ -65,7 +65,7 @@ export const articles = [
       "https://londoninsider.co.uk/iicspa-announces-fourteen-fellows-for-2024/",
   },
   {
-    image: "/logon24.webp",
+    image: "",
     conferenceName:
       "Marquis Top Science, Technology and Engineering Professionals",
     shortName: "DACS 2025",
