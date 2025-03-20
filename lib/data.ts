@@ -33,14 +33,14 @@ export const education = [
 
 export const articles = [
   {
-    image: "/khaleej-times.svg",
+    image: "/ny-black.webp",
     conferenceName: "IEEE Power and Energy Society (PES)",
     shortName: "ICISAS 2025",
     publisher: "IEEE",
     date: "September 12, 2024",
-    link: "https://nyweekly.com/tech/rahul-vadisetty-and-anand-polamarasetti-smart-city-development/",
+    link: "https://events.vtools.ieee.org/m/430011/",
     mediaLink:
-      "https://www.khaleejtimes.com/kt-network/icisas-2025-dubai-conference-explores-advancements-in-ai-cloud-security-and-ethical-technology",
+      "https://nyweekly.com/tech/rahul-vadisetty-and-anand-polamarasetti-smart-city-development/",
   },
   {
     image: "/freePress.avif",
@@ -54,7 +54,7 @@ export const articles = [
       " https://www.freepressjournal.in/latest-news/revolutionizing-cloud-data-sharing-rahul-vadisetty-and-anand-polamarasetti-wins-best-paper-award-at-ieee-ictbig-2024-conference",
   },
   {
-    image: "",
+    image: "/london insider.png",
     conferenceName:
       "International Institute of Computer Science Professional Association (IICSPA)",
     shortName: "OCIT 2025",
@@ -65,7 +65,7 @@ export const articles = [
       "https://londoninsider.co.uk/iicspa-announces-fourteen-fellows-for-2024/",
   },
   {
-    image: "",
+    image: "./marqouis.jpeg",
     conferenceName:
       "Marquis Top Science, Technology and Engineering Professionals",
     shortName: "DACS 2025",
@@ -200,7 +200,7 @@ export const awards = [
     publisher: "Taylor and Francis",
     link: "https://icecconf.org/icec_2024-2/",
     mediaLink:
-      " https://www.india.com/business/anand-polamarasetti-ai-ml-and-cybersecurity-visionary-wins-best-paper-award-at-ieee-icec-2024-conference-7590538/",
+      "https://www.india.com/business/anand-polamarasetti-ai-ml-and-cybersecurity-visionary-wins-best-paper-award-at-ieee-icec-2024-conference-7590538/",
   },
   // {
   //   conferenceName: "OCIT 2024",
@@ -224,8 +224,7 @@ export const awards = [
   },
   {
     image: "/best_paper.jpg",
-    conferenceName:
-      "International Conference On ICTBIG (IEEE Computer Society Chapter & IEEE Madhya Pradesh Section.)",
+    conferenceName: "ICTBIG 2024",
     awardName: "Best Paper Award",
     date: "December 12-14, 2024",
     link: "https://indore.hosting.acm.org/ictbig2024/index.htm",

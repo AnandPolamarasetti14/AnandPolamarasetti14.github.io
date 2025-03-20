@@ -16,7 +16,7 @@ export default function BooksList() {
       >
         <MainTitle
           heading={{
-            title: "Books & Book Chapters & Book Editor",
+            title: "Books | Book Chapters | Book Editor",
             icon: BsBook,
           }}
         />
