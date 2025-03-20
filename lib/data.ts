@@ -57,7 +57,7 @@ export const articles = [
     image: "/london insider.png",
     conferenceName:
       "International Institute of Computer Science Professional Association (IICSPA)",
-    shortName: "OCIT 2025",
+    shortName: "IICSPA 2024",
     publisher: "IICSPA",
     date: "September 13, 2024",
     link: "http://iicspa.org",
