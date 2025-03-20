@@ -43,7 +43,7 @@ export const articles = [
       "https://www.khaleejtimes.com/kt-network/icisas-2025-dubai-conference-explores-advancements-in-ai-cloud-security-and-ethical-technology",
   },
   {
-    image: "/India-header-logo.svg",
+    image: "/freePress.avif",
     conferenceName:
       "Information and Communication Technology in Business, Industry and Government (ICTBIG-2024)",
     shortName: "ICEC 2025",
@@ -76,7 +76,7 @@ export const articles = [
       "https://marquistopengineers.com/2024/05/29/anand-polamarasetti/",
   },
   {
-    image: "/Outlook.svg",
+    image: "/logon24.webp",
     shortName: "Ayushman Hospital",
     conferenceName: "ICDACS 2024",
     publisher: "Taylor and Francis",
@@ -86,7 +86,7 @@ export const articles = [
       "https://news24online.com/information/ai-innovation-in-healthcare-vadisetty-polamarasetti-win-best-paper-award-at-springer-dacs-2024/502405/",
   },
   {
-    image: "/freePress.avif",
+    image: "/India-header-logo.svg",
     conferenceName: "ICEC 2024",
     shortName: "ICTBIG",
     publisher: "IEEE",
@@ -350,7 +350,7 @@ export const judgeData = [
     conferenceSortName: "SN Computer Science (Springer Journal)",
     event: "SN Computer Science (Springer Journal)",
     date: "Oct 12, 2024",
-    role: "Journal Peer Review | SN Computer Science (Springer Journal)",
+    role: "Journal Peer Review",
   },
   {
     conferenceName: "SN Computer Science (Springer Journal)",
@@ -359,7 +359,7 @@ export const judgeData = [
     conferenceSortName: "SN Computer Science (Springer Journal)",
     event: "SN Computer Science (Springer Journal)",
     date: "July 26, 2024",
-    role: "Journal Peer Review | SN Computer Science (Springer Journal) ",
+    role: "Journal Peer Review",
   },
   {
     conferenceName: "SN Computer Science (Springer Journal)",
@@ -368,7 +368,7 @@ export const judgeData = [
     conferenceSortName: "SN Computer Science (Springer Journal)",
     event: "SN Computer Science (Springer Journal)",
     date: "May 29, 2024",
-    role: "Journal Peer Review | SN Computer Science (Springer Journal) ",
+    role: "Journal Peer Review",
   },
   // {
   //   conferenceName: "IEEE Transactions on Network and Service Management",
@@ -425,7 +425,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -434,7 +434,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -443,7 +443,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -452,7 +452,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)ss",
+    role: "Conference Peer Reviewss",
   },
   {
     conferenceName:
@@ -462,7 +462,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -472,11 +472,11 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
-      "| ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+      "ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024) ",
     conferenceTopicName:
       "AI-Driven Enhancements in it Incident Management: Improving Customer Experience through Automation and Streamlined Processes",
     conferenceSortName: "ICICCS- 2024",
@@ -492,7 +492,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -502,7 +502,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024s",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -512,7 +512,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -522,7 +522,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -532,7 +532,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS- 2024",
     event: "ICICCS- 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -542,7 +542,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing ",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -552,7 +552,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   {
     conferenceName:
@@ -562,7 +562,7 @@ export const judgeConference = [
     conferenceSortName: "ICICCS 2024",
     event: "ICICCS 2024",
     date: "2024",
-    role: "Conference Peer Review | ESP JETA & International Conference on Intelligent Computing And Cyber Security (ICICCS- 2024)",
+    role: "Conference Peer Review",
   },
   // {
   //   conferenceName:
